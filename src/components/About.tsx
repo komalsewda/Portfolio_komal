@@ -17,7 +17,7 @@ const About = () => {
             <div className="space-y-6">
               <div className="w-full h-80 rounded-3xl overflow-hidden shadow-xl">
                 <img
-                  src="https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming-700x286.png"
                   alt="CSE Student Coding"
                   className="w-full h-full object-cover"
                 />

@@ -105,7 +105,7 @@ const Hero = () => {
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="relative w-80 h-80 rounded-full overflow-hidden shadow-2xl border-4 border-white dark:border-gray-800">
                   <img
-                      src="/src/assets/c913fd6f-193f-4ba4-9773-ba64c70c10fc.jpg"
+                      src="/c913fd6f-193f-4ba4-9773-ba64c70c10fc.jpg"
                     alt="Komal Sewda"
                     className="w-full h-full object-cover"
                   />
