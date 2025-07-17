@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 
 export const useAnimateOnScroll = (animation: string = 'fade-up') => {
-  const elementRef = useRef<HTMLElement>(null);
+  const elementRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const element = elementRef.current;

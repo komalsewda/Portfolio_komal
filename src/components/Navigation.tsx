@@ -8,7 +8,7 @@ const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   
-  const sectionIds = ['hero', 'about', 'education', 'skills', 'projects', 'achievements', 'contact'];
+  const sectionIds = ['hero', 'about', 'education', 'skills', 'projects', 'experience', 'achievements', 'contact'];
   const activeSection = useScrollSpy(sectionIds);
 
   useEffect(() => {
@@ -25,6 +25,7 @@ const Navigation = () => {
     { id: 'education', label: 'Education' },
     { id: 'skills', label: 'Skills' },
     { id: 'projects', label: 'Projects' },
+    { id: 'experience', label: 'Experience' },
     { id: 'achievements', label: 'Achievements' },
     { id: 'contact', label: 'Contact' }
   ];

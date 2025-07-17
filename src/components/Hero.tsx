@@ -97,11 +97,6 @@ const Hero = () => {
             <div className="relative">
               {/* 3D Rotating Sphere */}
               <div className="w-96 h-96 relative">
-                <div className="absolute inset-0 animate-sphere-rotate">
-                  <div className="w-full h-full rounded-full bg-gradient-to-br from-emerald-200/30 to-cyan-200/30 dark:from-lime-200/20 dark:to-emerald-200/20 backdrop-blur-sm border border-emerald-300/50 dark:border-lime-300/50 shadow-2xl" />
-                </div>
-                
-                {/* Profile Image - Fixed Position */}
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="relative w-80 h-80 rounded-full overflow-hidden shadow-2xl border-4 border-white dark:border-gray-800">
                   <img
@@ -111,8 +106,6 @@ const Hero = () => {
                   />
                   </div>
                   
-                  {/* Neon Glow Effect */}
-                  <div className="absolute inset-0 rounded-full bg-cyan-400/30 dark:bg-lime-400/30 blur-2xl animate-pulse" />
                 </div>
               </div>
 
