@@ -15,7 +15,7 @@ const experiences = [
     icon: Code,
     company: 'Zettron Network',
     position: 'MERN Stack Development Intern',
-    dates: 'Jan 2023 - Apr 2023',
+    dates: 'July 2024 - Aug 2024',
     description:
       'During my MERN Stack internship, I was immersed in full-stack development. I contributed to real-time dashboards and internal tools using MongoDB, Express.js, React.js, and Node.js. My role also included integrating secure and scalable REST APIs and working closely with senior developers in agile sprints to ship impactful features and refine user experiences.',
     tech: ['MongoDB', 'Express.js', 'React.js', 'Node.js'],
@@ -24,7 +24,7 @@ const experiences = [
     icon: Brain,
     company: 'LinuxWorld Informatics Pvt Ltd',
     position: 'AI & ML + Full-Stack Intern',
-    dates: 'Jun 2022 - Dec 2022',
+    dates: 'may 2025 -  present',
     description:
       'At LinuxWorld, I bridged AI with full-stack development. I trained Machine Learning and Deep Learning models on real-world datasets using Python. I also engineered AI-enabled web applications with React.js, Flask, and Streamlit, deploying models through custom APIs and enhancing them with MongoDB-driven data pipelines. This experience sharpened my skills in model deployment, full-stack development, and building intelligent applications.',
     tech: ['AI', 'ML', 'React.js', 'Flask', 'Streamlit', 'MongoDB'],
